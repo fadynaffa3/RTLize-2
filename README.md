@@ -1,6 +1,6 @@
 # RTLize
 
-[![Build Status](https://github.com/fadynaffa3/RTLize/actions/workflows/ci.yml/badge.svg)](https://github.com/fadynaffa3/RTLize/actions)
+[![Build Status](https://github.com/fadynaffa3/RTLize-2/actions/workflows/ci.yml/badge.svg)](https://github.com/fadynaffa3/RTLize-2/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](MIT-LICENSE)
 
 RTLize allows you to write your stylesheets for left-to-right (LTR) layouts and have them automatically work for right-to-left (RTL) layouts as well. It does this by mirroring all the properties and values to their RTL equivalent.
 
